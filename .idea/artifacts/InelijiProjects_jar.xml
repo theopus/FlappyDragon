@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InelijiProjects:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InelijiProjects_jar</output-path>
+    <root id="archive" name="InelijiProjects_jar.jar">
+      <element id="module-output" name="InelijiProjects" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-openal/3.1.1/lwjgl-openal-3.1.1-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-glfw/3.1.1/lwjgl-glfw-3.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-glfw/3.1.1/lwjgl-glfw-3.1.1-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl/3.1.1/lwjgl-3.1.1-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-opengl/3.1.1/lwjgl-opengl-3.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl/3.1.1/lwjgl-3.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-openal/3.1.1/lwjgl-openal-3.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-opengl/3.1.1/lwjgl-opengl-3.1.1-natives-windows.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
