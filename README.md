@@ -1,2 +1,2 @@
 # FlappyDragon
-Java, OpenGL, LWJGL 3
+Java, OpenGL(LWJGL 3), GLSL 3.3
